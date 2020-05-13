@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+<TITLE>CONTRUCCIONWEB</TITLE>
+</HEAD> 
+<FONT FACE=Broadway SIZE=6>
+<BODY BACKGROUND="portada2.jpg"> 
+<CENTER>
+<br>
+<Table>
+<tr>
+<td><IMG SRC=tv.gif WIDTH="200" HEIGTH="200">
+<td><font color=white><H2> DÓNDE VER (CONTENIDO)<br>
+<center>(UFC)</H2></td>
+</tr>
+</Table>
+</center>
+<br>
+<FONT FACE=calibri SIZE=4>
+<font color=white>
+<H2>DÓNDE VER LOS CAMBATES DE LA UFC</H2>
+<H3>Guía para ver los elemntos en vivo</H3>
+<hr color= gray size=2>
+<br>
+<table>
+<tr>
+<td><FONT FACE=calibri SIZE=4><font color=white>
+<b>MÉXICO Y LATINOAMÉRICA</b><br>
+En México y toda Latinoamérica (excepto Brasil) puedes<br> ver los eventos de UFC en vivo por FOX SPORTS.<br>
+Busca en tu programación local horarios y señales específicas.</td>
+<td><img src="foxport.png" WIDTH="200" HEIGTH="200"></td>
+</tr>
+<tr>
+<td><br><br><FONT FACE=calibri SIZE=4><font color=white>
+<b>EN LOS ESTADOS UNIDOS</b><br>
+En los EUA puedes ver los PPV en exclusiva por ESPN+ así como<br> Fight Nights y eventos exclusivos.
+COMPRA NUESTRO PPV EN ESPN+ |<br> INICIA TU PRUEBA GRATIS DE ESPN+
+Los Fight Nights puedes verlos<br> por ESPN Deportes también. Consulta la programación local para horarios y detalles.
+<br>
+<td><img src="espa.png" WIDTH="200" HEIGTH="200"></td>
+</tr>
+<tr>
+<td><br><br><FONT FACE=calibri SIZE=4><font color=white>
+<b>EN ESPAÑA</b>
+Mira los eventos del UFC por DAZN España.</td>
+<td><img src="dazn.png" WIDTH="150" HEIGTH="150"></td>
+<br><br>
+<td><h3><a href=index.html>MENU</h3></a>
+</td>
+</table>
+</head>
+</html>
+
