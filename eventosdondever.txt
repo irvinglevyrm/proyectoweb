@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+<TITLE>CONTRUCCIONWEB</TITLE>
+</HEAD> 
+<FONT FACE=Broadway SIZE=6>
+<BODY BACKGROUND="portada2.jpg"> 
+<CENTER>
+<br>
+<Table>
+<tr>
+<td><IMG SRC=1.gif WIDTH="200" HEIGTH="200">
+<td><font color=white><H3> EVENTOS PRINCIPALES "GRATUITOS" </H3></td>
+</tr>
+</Table>
+<br><br>
+
+<table>
+<tr>
+<td><FONT FACE=calibri SIZE=4><P ALIGN=center><font color=white>
+<B>McGREFOR VS COWBOY</B><br>
+Sáb, May 9 / 9:00 PM CDT / Main Card
+VyStar Veterans Memorial Arena
+Jacksonville
+Estados Unidos
+<IMG SRC=mvsc1.jpg WIDTH="200" HEIGTH="200" HSPACE="200"></td>
+
+<td><FONT FACE=calibri SIZE=4><P ALIGN=center><font color=white>
+<B>HOLLOWAY VS EDGAR</B><br>
+Mié, May 13 / 8:00 PM CDT / Main Card
+VyStar Veterans Memorial Arena
+Jacksonville
+Estados Unidos
+<IMG SRC=jvs.jpg WIDTH="200" HEIGTH="200" HSPACE="200"></td>
+</tr>
+<tr>
+
+<td><FONT FACE=calibri SIZE=4><P ALIGN=center><font color=white>
+<B>ADESANYA VS SILVA</B><br>
+Sáb, May 16 / 8:00 PM CDT / Main Card
+VyStar Veterans Memorial Arena
+Jacksonville
+Estados Unidos
+<IMG SRC=svsa.jpg WIDTH="200" HEIGTH="200" HSPACE="200"></td>
+
+<td><FONT FACE=calibri SIZE=4><P ALIGN=center><font color=white>
+<B>KHABIB VS POIRIER</B><br>
+Sáb, May 20 / 8:00 PM CDT / Main Card
+VyStar Veterans Memorial Arena
+Jacksonville
+Estados Unidos
+<IMG SRC=kvs.jpg WIDTH="200" HEIGTH="200" HSPACE="200"></td>
+</tr>
+</table>
+<br><br>
+<center>
+<img src=magregor3.gif>
+</br>
+<td></H3><a href=index.html>MENU</H3></a></td>
+</head>
+</html>
